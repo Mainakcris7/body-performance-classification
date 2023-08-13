@@ -1,7 +1,7 @@
 
 # Classification based on Body Performance
 
-Classifying humans based on their fitness level and body performance. `A` class refers to best body performance. This is a practice project based on `Classification` in `Machine Learning`.
+Classifying humans based on their fitness level and body performance. `A` class refers to the best body performance. This is a practice project based on `Classification` in `Machine Learning`.
 Dataset is available on `Kaggle`.
 
 
