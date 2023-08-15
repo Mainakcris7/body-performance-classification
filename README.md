@@ -7,6 +7,12 @@ Dataset is available on `Kaggle`.
 
 
 
+
+![Logo](https://i2-prod.mirror.co.uk/incoming/article13142117.ece/ALTERNATES/s1200d/1_Cristiano-Ronaldo-in-the-gym.jpg)
+
+
+
+
 ## 🚀 About Me
 I'm still a Student, pursuing my B.Tech (3rd year, at 2023). I dreamt to be a Data Scientist or Data Analyst one day.
 
@@ -45,3 +51,8 @@ I tried to use GridSearchCV and RandomizedSeachCV both. But due to large dataset
 
 #### Which models are you using in this project?
 Logistic Regression, XGBoost, CatBoost, GradientBoosting Classifier and RandomForest.
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at mainakcr72002@gmail.com
